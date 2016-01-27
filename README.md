@@ -60,11 +60,12 @@ In this lab, you will learn about `struct`s and `class`es in C++.
 ## Computational geometry review
 1. 2DPoints (x,y)
 2. 2DLineSegments ((x1,y1),(x2,y2))
-3. 2DVectors (x,y)
-4. 2DVectors addition
-5. 2DVectors subtraction
+3. 2DLineSegments addition
+4. 2DLineSegments subtraction
+5. 2DLineSegments subtraction
 
 ## Code up a program to do this!
 
 1. Implement Points as structs, then 2DLineSegments as structs that have members of the Points type.
-2. Implement 2DVectors as structs, then functions for addition and subtraction, returning a new 2DVector for the resultant.
+2. Implement 2DLineSegments as structs, then functions for addition and subtraction, returning a new 2DLineSegments for the resultant.
+3. Implement a 2DLineSegments intersection detector.
