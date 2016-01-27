@@ -68,4 +68,4 @@ In this lab, you will learn about `struct`s and `class`es in C++.
 
 1. Implement Points as structs, then 2DVectors as structs that have members of the Points type.
 2. Implement 2DVector addition and subtraction, returning a new 2DVector for the resultant.
-3. Implement a 2DVector intersection calculator. 
+3. Implement a 2DVector intersection detector. 
